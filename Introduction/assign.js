@@ -26,11 +26,13 @@
 
 // 4. Try to add a new key to the const object in problem 3.
 
-// const b={
-//     name:"Robin",
-//     class:"ux"
-// }
+const b={
+    name:"Robin",
+    class:"ux"
+}
 
+b["name"]="Haaris";
+console.log(b);
 
 
 // 5. Write a js program to create a word-meaning dictionary of 5 words
